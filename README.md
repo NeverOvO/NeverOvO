@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 联系方式:
+### 联系方式:
 1: 📫Email: 1019832705@qq.com
 2: 💬WX: 18267400651
 
