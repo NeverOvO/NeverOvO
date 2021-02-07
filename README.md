@@ -1,4 +1,4 @@
-### Hi there 👋
+### 好久不见 👋
 
 <!--
 **NeverOvO/NeverOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
