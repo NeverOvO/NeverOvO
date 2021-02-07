@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-联系方式:
+## 联系方式:
 1: 📫Email: 1019832705@qq.com
 2: 💬WX: 18267400651
 
@@ -26,3 +26,11 @@ Flutter学习中,目前有2个Flutter项目从0创建并进入维护期
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NeverOvO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeverOvO&theme=dark&layout=compact)
+
+
+感谢投喂！
+<div align="center">
+	<img src="https://github.com/NeverOvO/NeverOvO/blob/main/IMG_3536(20210207-164320).JPG" alt="Editor" width="150">
+  <img src="https://github.com/NeverOvO/NeverOvO/blob/main/IMG_3537(20210207-164334).JPG" alt="Editor" width="150">
+  <img src="https://github.com/NeverOvO/NeverOvO/blob/main/F83EE11DFF22016AAE2EA33D31658D74.png" alt="Editor" width="150">
+</div>
