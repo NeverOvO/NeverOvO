@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 Flutter学习中,目前有2个Flutter项目从0创建并进入维护期
 正在学习Flutter desktop,年后尝试开发3个桌面端。
 目前较为空闲,有需要合作写Flutter APP UI界面的可以联系合作。
+有什么好玩的API也可以分享给我，我能做一个出来玩玩～
 
 ### 状态统计:
 
