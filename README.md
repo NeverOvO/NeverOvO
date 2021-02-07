@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 1: 📫Email: 1019832705@qq.com
 2: 💬WX: 18267400651
 
-目前状态:
+### 目前状态:
 Flutter学习中,目前有2个Flutter项目从0创建并进入维护期
 正在学习Flutter desktop,年后尝试开发3个桌面端。
 目前较为空闲,有需要合作写Flutter APP UI界面的可以联系合作。
@@ -28,7 +28,7 @@ Flutter学习中,目前有2个Flutter项目从0创建并进入维护期
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeverOvO&theme=dark&layout=compact)
 
 
-感谢投喂！
+### 感谢投喂！
 <div align="center">
 	<img src="https://github.com/NeverOvO/NeverOvO/blob/main/IMG_3536(20210207-164320).JPG" alt="Editor" width="150">
   <img src="https://github.com/NeverOvO/NeverOvO/blob/main/IMG_3537(20210207-164334).JPG" alt="Editor" width="150">
