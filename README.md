@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### 联系方式:
 #### 📫Email:
 1019832705@qq.com
-#### 💬WX: 
+#### 💬微信: 
 18267400651
-#### Telegram
+#### ✈️Telegram
 https://t.me/NeverOuO
 
 
