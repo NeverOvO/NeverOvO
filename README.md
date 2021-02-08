@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### 联系方式:
-1: 📫Email: 1019832705@qq.com
-2: 💬WX: 18267400651
+#### 📫Email:
+1019832705@qq.com
+#### 💬WX: 
+18267400651
+#### Telegram
+https://t.me/NeverOuO
+
 
 ### 目前状态:
 Flutter学习中,目前有2个Flutter项目从0创建并进入维护期
