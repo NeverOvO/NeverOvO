@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 📫Email:
 1019832705@qq.com
 #### 💬微信: 
-18267400651
+Libran_L
 #### ✈️Telegram
 https://t.me/NeverOuO
 #### 🖥博客
@@ -27,10 +27,16 @@ https://neverovo.github.io
 
 
 ### 目前状态:
-Flutter学习中,目前有2个Flutter项目从0创建并进入维护期
-正在学习Flutter desktop,年后尝试开发3个桌面端。
-目前较为空闲,有需要合作写Flutter APP UI界面的可以联系合作。
-有什么好玩的API也可以分享给我，我能做一个出来玩玩～
+
+目前有3个已上线移动APP，1个已交付桌面端程序，一个正在开发中的桌面端程序。
+可以接外包\UI绘制\BUG解决，随时联系我，Flutter的全端都能接。
+想交个朋友的也可以加我。
+
+### Flutter自制插件列表
+
+ - [neveruseless](https://pub.flutter-io.cn/packages/neveruseless)
+ - [windows_soundplay](https://pub.flutter-io.cn/packages/windows_soundplay)
+
 
 ### 状态统计:
 
@@ -38,9 +44,4 @@ Flutter学习中,目前有2个Flutter项目从0创建并进入维护期
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeverOvO&theme=dark&layout=compact)
 
 
-### 感谢投喂！
-<div align="center">
-	<img src="https://github.com/NeverOvO/NeverOvO/blob/main/IMG_3536(20210207-164320).JPG" alt="Editor" width="150">
-  <img src="https://github.com/NeverOvO/NeverOvO/blob/main/IMG_3537(20210207-164334).JPG" alt="Editor" width="150">
-  <img src="https://github.com/NeverOvO/NeverOvO/blob/main/F83EE11DFF22016AAE2EA33D31658D74.png" alt="Editor" width="150">
-</div>
+### 感谢
