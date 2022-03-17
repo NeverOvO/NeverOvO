@@ -39,7 +39,7 @@ https://neverovo.github.io
 
 ### Flutter工具类应用
 
- - [neveruseless](https://github.com/NeverOvO/Dart-Model-Maker) 将JSON、MAP 直接转换输出成为Model.dart文件，减少繁琐的写model流程，还在不停的用工作中使用到的JSON报文测试修改中，欢迎测试提交意见。
+ - [Dart-Model-Maker](https://github.com/NeverOvO/Dart-Model-Maker) 将JSON、MAP 直接转换输出成为Model.dart文件，减少繁琐的写model流程，还在不停的用工作中使用到的JSON报文测试修改中，欢迎测试提交意见。
 
 
 ### 状态统计:
