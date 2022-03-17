@@ -30,14 +30,16 @@ https://neverovo.github.io
 
 ### 目前状态:
 
-目前有3个已上线移动APP，1个已交付桌面端程序，一个正在开发中的桌面端程序。
-可以接外包\UI绘制\BUG解决，随时联系我，Flutter的全端都能接。
-想交个朋友的也可以加我。
+目前有3个已上线移动APP，1个已交付桌面端程序，一个正在开发中的桌面端程序。近期打算深入研究下Flutter的各种不常用组建，并开发几个加快开发效率的工具。
 
 ### Flutter自制插件列表
 
  - [neveruseless](https://pub.flutter-io.cn/packages/neveruseless)
  - [windows_soundplay](https://pub.flutter-io.cn/packages/windows_soundplay)
+
+### Flutter工具类应用
+
+ - [neveruseless](https://github.com/NeverOvO/Dart-Model-Maker) 将JSON、MAP 直接转换输出成为Model.dart文件，减少繁琐的写model流程，还在不停的用工作中使用到的JSON报文测试修改中，欢迎测试提交意见。
 
 
 ### 状态统计:
