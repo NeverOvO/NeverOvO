@@ -32,6 +32,12 @@ https://neverovo.github.io
 
 目前有3个已上线移动APP，1个已交付桌面端程序，一个正在开发中的桌面端程序。近期打算深入研究下Flutter的各种不常用组件，并开发几个加快开发效率的工具。
 
+### Flutter已上架应用
+
+#### iOS & macOS
+- [K-Line Viewer](https://apps.apple.com/us/app/k-line-viewer/id1620748224)
+
+
 ### Flutter自制插件列表
 
  - [neveruseless](https://pub.flutter-io.cn/packages/neveruseless)
