@@ -25,7 +25,7 @@ https://t.me/NeverOuO
 #### 💯个人站
 https://www.neverovo.我爱你
 #### 💯拟建工具站
-https://neveroo.xyz
+https://neverouo.xyz
 #### 🖥博客
 https://neverovo.github.io
 
