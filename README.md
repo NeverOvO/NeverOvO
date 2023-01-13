@@ -52,12 +52,4 @@ https://neverovo.github.io
  - [flutter_drag](https://github.com/NeverOvO/flutter_drag)Flutter桌面应用中的可拖拽改变空间占比组件，稍微修改可以实现调整宽、高。
 
 
-
-
-### 状态统计:
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NeverOvO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeverOvO&theme=dark&layout=compact)
-
-
 ### 感谢
