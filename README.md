@@ -24,7 +24,7 @@ Libran_L
 https://t.me/NeverOuO
 #### 💯个人站
 https://www.neverovo.我爱你
-#### 💯拟建工具站
+#### 💯工具站
 https://neverouo.xyz
 #### 🖥博客
 https://neverovo.github.io
@@ -39,6 +39,8 @@ https://neverovo.github.io
 #### iOS & macOS
 - [K-Line Viewer](https://apps.apple.com/us/app/k-line-viewer/id1620748224)
 
+#### macOS
+- [Never文件自由](https://apps.apple.com/us/app/never文件自由/id1671954664)
 
 ### Flutter自制插件列表
 
@@ -51,5 +53,3 @@ https://neverovo.github.io
  - [flutterlinkagerollinglist](https://github.com/NeverOvO/flutterlinkagerollinglist) 类饿了嘛商品页面左标题自动定位，右侧滚动定位的Flutter组件，适配空安全。
  - [flutter_drag](https://github.com/NeverOvO/flutter_drag)Flutter桌面应用中的可拖拽改变空间占比组件，稍微修改可以实现调整宽、高。
 
-
-### 感谢
