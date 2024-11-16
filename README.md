@@ -49,7 +49,7 @@ https://neverovo.github.io
 
 ### Flutter工具类应用
 
- - [Dart-Model-Maker](https://github.com/NeverOvO/Dart-Model-Maker) 将JSON、MAP 直接转换输出成为Model.dart文件，减少繁琐的写model流程，还在不停的用工作中使用到的JSON报文测试修改中，欢迎测试提交意见。
+ - [Dart-Model-Maker](https://github.com/NeverOvO/Dart-Model-Maker) 将JSON、MAP 直接转换输出成为Model.dart文件，减少繁琐的写model流程，还在不停的用工作中使用到的JSON报文测试修改中，欢迎测试提交意见。已获得软著：登记号2024SR1807760
  - [flutterlinkagerollinglist](https://github.com/NeverOvO/flutterlinkagerollinglist) 类饿了嘛商品页面左标题自动定位，右侧滚动定位的Flutter组件，适配空安全。
  - [flutter_drag](https://github.com/NeverOvO/flutter_drag)Flutter桌面应用中的可拖拽改变空间占比组件，稍微修改可以实现调整宽、高。
 
