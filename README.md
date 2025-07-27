@@ -57,4 +57,4 @@ https://neverovo.github.io
 
  <img src="https://github.com/NeverOvO/NeverOvO/blob/main/alipay-2025.JPG" width="250" /> <img src="https://github.com/NeverOvO/NeverOvO/blob/main/wepay-2025.JPG" width="250" />
 
- <img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-bnb.JPG" width="250" /> <img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-tron.JPG" width="250" />
+ <img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-bnb.JPG" width="200" /> <img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-tron.JPG" width="200" /><img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-okx.JPG" width="200" />
