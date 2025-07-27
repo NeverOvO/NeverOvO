@@ -53,3 +53,8 @@ https://neverovo.github.io
  - [flutterlinkagerollinglist](https://github.com/NeverOvO/flutterlinkagerollinglist) 类饿了嘛商品页面左标题自动定位，右侧滚动定位的Flutter组件，适配空安全。
  - [flutter_drag](https://github.com/NeverOvO/flutter_drag)Flutter桌面应用中的可拖拽改变空间占比组件，稍微修改可以实现调整宽、高。
 
+# 赞助投喂
+
+ <img src="https://github.com/NeverOvO/NeverOvO/blob/main/alipay-2025.JPG" width="250" /> <img src="https://github.com/NeverOvO/NeverOvO/blob/main/wepay-2025.JPG" width="250" />
+
+ <img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-bnb.JPG" width="250" /> <img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-tron.JPG" width="250" />
