@@ -41,12 +41,13 @@ https://neverovo.github.io
 
 #### macOS
 - [Never文件自由](https://apps.apple.com/us/app/never文件自由/id1671954664)
-软著：登机号2024SR1823507
+软著登记号：2024SR1823507
 ### Flutter自制插件列表
 
  - [neveruseless](https://pub.flutter-io.cn/packages/neveruseless)
  - [windows_soundplay](https://pub.flutter-io.cn/packages/windows_soundplay)
-
+ - [w_client_flutter](https://pub.dev/packages/w_client_flutter)  软著登记号：2025SR1924434
+ 
 ### Flutter工具类应用
 
  - [Dart-Model-Maker](https://github.com/NeverOvO/Dart-Model-Maker) 将JSON、MAP 直接转换输出成为Model.dart文件，减少繁琐的写model流程，还在不停的用工作中使用到的JSON报文测试修改中，欢迎测试提交意见。已获得软著：登记号2024SR1807760
