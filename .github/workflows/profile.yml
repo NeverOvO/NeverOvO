@@ -20,7 +20,7 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v6
 
-      - name: Generate GitHub stats
+      - name: Generate dark GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -29,12 +29,30 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate top languages
+      - name: Generate light GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&bg_color=FFFFFF&title_color=7C3AED&text_color=24292F&icon_color=8B5CF6&border_color=D0D7DE
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate dark top languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=0D1117&title_color=C084FC&text_color=E6EDF3&border_color=30363D
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate light top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=FFFFFF&title_color=7C3AED&text_color=24292F&border_color=D0D7DE
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 

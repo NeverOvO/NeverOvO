@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./profile/yunyulai-hero.gif" alt="Cixi Yunyulai Cultural Technology Co., Ltd — 慈溪云屿来文化科技有限公司" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/yunyulai-hero.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/yunyulai-hero-light.gif" />
+    <img src="./profile/yunyulai-hero-light.gif" alt="Cixi Yunyulai Cultural Technology Co., Ltd — 慈溪云屿来文化科技有限公司" width="100%" />
+  </picture>
 </p>
 
 <h1 align="center">慈溪云屿来文化科技有限公司</h1>
@@ -22,26 +26,27 @@
   Maintained by <a href="https://github.com/NeverOvO">LaiHaibo</a>
 </p>
 
-## STATUS
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/status-focus-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/status-focus-light.png" />
+    <img src="./profile/status-focus-light.png" alt="Status: building practical AI content tools, cross-platform software and trusted digital asset solutions. Focus: AI 内容、软件开发、IP 孵化、可信资产。" width="100%" />
+  </picture>
+</p>
 
-Building practical AI content tools, cross-platform software, and trusted digital asset solutions.
-
-云屿来把 AI 内容生产、Flutter 跨平台开发和可信内容资产管理结合起来，为企业、商户、创业项目和内容团队提供轻量、清晰、可落地的服务。
-
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>AI 内容</strong><br />内容生产与创作工具</td>
-    <td width="25%" align="center"><strong>软件开发</strong><br />Flutter 跨平台交付</td>
-    <td width="25%" align="center"><strong>IP 孵化</strong><br />数字内容产品化</td>
-    <td width="25%" align="center"><strong>可信资产</strong><br />数字确权与可信流转</td>
-  </tr>
-</table>
-
-## OPEN SOURCE ACTIVITY
+## Open Source Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="LaiHaibo GitHub stats" height="165" />
-  <img src="./profile/top-langs.svg" alt="LaiHaibo top languages" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img src="./profile/stats-light.svg" alt="LaiHaibo GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img src="./profile/top-langs-light.svg" alt="LaiHaibo top languages" height="165" />
+  </picture>
 </p>
 
 <picture>
