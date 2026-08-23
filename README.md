@@ -1,62 +1,53 @@
-### 好久不见 👋
+<p align="center">
+  <img src="./profile/yunyulai-hero.gif" alt="Cixi Yunyulai Cultural Technology Co., Ltd — 慈溪云屿来文化科技有限公司" width="100%" />
+</p>
 
-<!--
-**NeverOvO/NeverOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">慈溪云屿来文化科技有限公司</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Cixi Yunyulai Cultural Technology Co., Ltd</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  把想法，做成看得见的成果
+  <br />
+  AI Content · Flutter Development · IP Incubation · Trusted Digital Assets
+</p>
 
-### 联系方式:
-#### 📫Email:
-1019832705@qq.com
-#### 💬微信: 
-Libran_L
-#### ✈️Telegram
-https://t.me/NeverOuO
-#### 💯个人站
-https://www.neverovo.我爱你
-#### 💯工具站
-https://neverouo.xyz
-#### 🖥博客
-https://neverovo.github.io
+<p align="center">
+  <a href="https://yunyulai.com">公司官网</a>
+  ·
+  <a href="https://yunyulai.com/#contact">联系合作</a>
+  ·
+  Maintained by <a href="https://github.com/NeverOvO">LaiHaibo</a>
+</p>
 
+## STATUS
 
-### 目前状态:
+Building practical AI content tools, cross-platform software, and trusted digital asset solutions.
 
-目前有3个已上线移动APP，1个已交付桌面端程序，一个正在开发中的桌面端程序。近期打算深入研究下Flutter的各种不常用组件，并开发几个加快开发效率的工具。
+云屿来把 AI 内容生产、Flutter 跨平台开发和可信内容资产管理结合起来，为企业、商户、创业项目和内容团队提供轻量、清晰、可落地的服务。
 
-### Flutter已上架应用
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>AI 内容</strong><br />内容生产与创作工具</td>
+    <td width="25%" align="center"><strong>软件开发</strong><br />Flutter 跨平台交付</td>
+    <td width="25%" align="center"><strong>IP 孵化</strong><br />数字内容产品化</td>
+    <td width="25%" align="center"><strong>可信资产</strong><br />数字确权与可信流转</td>
+  </tr>
+</table>
 
-#### iOS & macOS
-- [K-Line Viewer](https://apps.apple.com/us/app/k-line-viewer/id1620748224)
+## OPEN SOURCE ACTIVITY
 
-#### macOS
-- [Never文件自由](https://apps.apple.com/us/app/never文件自由/id1671954664)
-软著登记号：2024SR1823507
-### Flutter自制插件列表
+<p align="center">
+  <img src="./profile/stats.svg" alt="LaiHaibo GitHub stats" height="165" />
+  <img src="./profile/top-langs.svg" alt="LaiHaibo top languages" height="165" />
+</p>
 
- - [neveruseless](https://pub.flutter-io.cn/packages/neveruseless)
- - [windows_soundplay](https://pub.flutter-io.cn/packages/windows_soundplay)
- - [w_client_flutter](https://pub.dev/packages/w_client_flutter)  软著登记号：2025SR1924434
- 
-### Flutter工具类应用
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+  <img alt="LaiHaibo contribution snake" src="./profile/snake-light.svg" width="100%" />
+</picture>
 
- - [Dart-Model-Maker](https://github.com/NeverOvO/Dart-Model-Maker) 将JSON、MAP 直接转换输出成为Model.dart文件，减少繁琐的写model流程，还在不停的用工作中使用到的JSON报文测试修改中，欢迎测试提交意见。已获得软著：登记号2024SR1807760
- - [flutterlinkagerollinglist](https://github.com/NeverOvO/flutterlinkagerollinglist) 类饿了嘛商品页面左标题自动定位，右侧滚动定位的Flutter组件，适配空安全。
- - [flutter_drag](https://github.com/NeverOvO/flutter_drag)Flutter桌面应用中的可拖拽改变空间占比组件，稍微修改可以实现调整宽、高。
-
-# 赞助投喂
-
- <img src="https://github.com/NeverOvO/NeverOvO/blob/main/alipay-2025.JPG" width="250" /><img src="https://github.com/NeverOvO/NeverOvO/blob/main/wepay-2025.JPG" width="250" />
-
-
- <img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-bnb.JPG" width="166" /><img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-tron.JPG" width="166" /><img src="https://github.com/NeverOvO/NeverOvO/blob/main/okx-usdt-okx.JPG" width="166" />
+<p align="center"><sub>Profile visuals refresh automatically with GitHub Actions.</sub></p>
